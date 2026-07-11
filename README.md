@@ -55,8 +55,8 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Multi-Agent-RAG&theme=tokyonight&hide_border=true"/>
 </a>
 
-<a href="https://github.com/kjayant8628/Enterprise-RAG-Assistant">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Enterprise-RAG-Assistant&theme=tokyonight&hide_border=true"/>
+[<a href="https://github.com/kjayant8628/Enterprise-RAG-Assistant">
+](https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Enterprise-RAG-Assistant)<img src="https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Enterprise-RAG-Assistant&theme=tokyonight&hide_border=true"/>
 </a>
 
 </p>
