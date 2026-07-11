@@ -10,21 +10,7 @@ Building production-ready AI systems with LLMs, RAG, FastAPI, Graph Neural Netwo
 
 <p align="center">
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;FastAPI+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+LangGraph;Graph+Neural+Networks+%7C+Time+Series+Forecasting;Open+to+AI+Engineering+Opportunities"/>
-</p>
 
-<p align="center">
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://github.com/kjayant8628">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
-</a>
-</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
 
