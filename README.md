@@ -25,9 +25,7 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 
 </p>
 
----
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
 
 # 💻 Tech Stack
 
@@ -48,7 +46,7 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 <img src="https://img.shields.io/badge/RBAC-2563EB?style=for-the-badge"/>
 
 </p>
-
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
 # ⭐ Featured Projects
 
 | Project | Description |
