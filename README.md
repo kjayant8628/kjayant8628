@@ -27,14 +27,52 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 
 </p>
 
+---
+
+# 💻 Tech Stack
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,js,mysql" />
+</p>
+
+### AI & Machine Learning
+
+<p>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
+<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangGraph-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
+</p>
+
+### Backend & APIs
+
+<p>
+<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RBAC-2563EB?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postgresql" />
+</p>
 
 ---
 
-# 🚀 About Me
+# ⭐ Featured Projects
 
-- 🤖 AI Engineer passionate about building production-ready AI systems.
-- 🧠 Experienced in **LLMs, RAG, FastAPI, Graph Neural Networks, and Machine Learning**.
-- 📊 Strong foundation in **Data Science, Forecasting, and Analytics**.
-- ⚡ Building secure AI applications with **JWT Authentication & RBAC**.
-- 🌱 Currently exploring **Agentic AI, LangGraph, and Scalable AI Infrastructure**.
-- 🎯 Open to **AI Engineer**, **Machine Learning Engineer**, and **Data Scientist** opportunities.
+| Project | Description |
+|----------|-------------|
+| 🤖 **Multi-Agent RAG API** | Production-ready multi-agent RAG system using FastAPI, ChromaDB, Groq, and intelligent routing. |
+| 🏢 **Enterprise RAG Assistant** | Secure AI assistant featuring JWT Authentication, RBAC, FastAPI, semantic search, and document retrieval. |
+| 🧬 **Drug-Drug Interaction Prediction** | Hybrid Graph Neural Network and Knowledge Graph framework built using PyTorch. |
+| 🏠 **Real Estate Price Prediction** | End-to-end ML pipeline with feature engineering, SHAP explainability, and XGBoost. |
+| 🌍 **Indian Tourism Forecasting** | Comparative ARIMA vs XGBoost forecasting with external economic indicators. |
+| 🍽️ **Zomato Data Analysis** | Restaurant analytics using SQL, EDA, visualization, and machine learning. |
+
+
