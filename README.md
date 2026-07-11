@@ -27,40 +27,27 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 
 ---
 
+---
+
 # 💻 Tech Stack
 
-### Languages
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,js,mysql" />
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,fastapi,postgres,mysql,git,github,docker,vscode&perline=5"/>
+
 </p>
 
-### AI & Machine Learning
+<p align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn" />
-<img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/LangGraph-0066CC?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-121212?style=for-the-badge&logoColor=white"/>
+<img src="https://img.shields.io/badge/LangGraph-0052CC?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/ChromaDB-7B3FE4?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/XGBoost-EC6B23?style=for-the-badge"/>
-</p>
-
-### Backend & APIs
-
-<p>
-<img src="https://skillicons.dev/icons?i=fastapi" />
+<img src="https://img.shields.io/badge/RAG-00BFFF?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/RBAC-2563EB?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/REST_API-009688?style=for-the-badge"/>
+
 </p>
-
-### Tools
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,postgresql" />
-</p>
-
----
 
 # ⭐ Featured Projects
 
