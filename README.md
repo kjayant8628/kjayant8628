@@ -11,9 +11,7 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2500&pause=1000&color=00C4FF&center=true&vCenter=true&width=700&lines=AI+Engineer;Machine+Learning+Engineer;Building+Production+AI+Systems;FastAPI+%7C+RAG+%7C+LLMs+%7C+LangGraph;Always+Learning+Something+New+🚀" />
-
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3500&pause=1200&color=00C4FF&center=true&vCenter=true&width=900&lines=AI+Engineer+%7C+Machine+Learning+Engineer;Building+Production-Ready+AI+Systems;FastAPI+%E2%80%A2+RAG+%E2%80%A2+LLMs+%E2%80%A2+LangGraph;Graph+Neural+Networks+%7C+Time+Series+Forecasting;Open+to+AI+Engineering+Opportunities" alt="Typing SVG" />
 </p>
 
 
