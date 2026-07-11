@@ -59,3 +59,89 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 | 🍽️ **Zomato Data Analysis** | Restaurant analytics using SQL, EDA, visualization, and machine learning. |
 
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
+# 📊 GitHub Analytics
+
+<p align="center">
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=kjayant8628&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kjayant8628&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="80%" src="https://github-readme-streak-stats.herokuapp.com?user=kjayant8628&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
+
+# 📈 Contribution Graph
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=kjayant8628&theme=tokyo-night&hide_border=true"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
+
+# 🏆 GitHub Achievements
+
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=kjayant8628&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
+
+</p>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
+# 🚀 Currently Exploring
+
+```yaml
+🧠 AI Systems:
+  - Multi-Agent AI
+  - Retrieval-Augmented Generation (RAG)
+  - LangGraph Workflows
+  - LLM Evaluation
+
+⚙️ Backend:
+  - FastAPI
+  - Authentication (JWT)
+  - RBAC
+  - REST APIs
+
+📚 Learning:
+  - Docker
+  - Kubernetes
+  - Production ML
+  - Cloud Deployment
+
+🎯 Goal:
+  Build scalable AI systems that solve real-world problems.
+```
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
+# 🤝 Let's Connect
+
+<p align="center">
+
+<a href="YOUR_LINKEDIN_URL">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="mailto:YOUR_EMAIL">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/kjayant8628">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
+</a>
+
+</p>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
