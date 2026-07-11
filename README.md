@@ -47,17 +47,31 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 
 </p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
-# ⭐ Featured Projects
+## ⭐ Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 🤖 **Multi-Agent RAG API** | Production-ready multi-agent RAG system using FastAPI, ChromaDB, Groq, and intelligent routing. |
-| 🏢 **Enterprise RAG Assistant** | Secure AI assistant featuring JWT Authentication, RBAC, FastAPI, semantic search, and document retrieval. |
-| 🧬 **Drug-Drug Interaction Prediction** | Hybrid Graph Neural Network and Knowledge Graph framework built using PyTorch. |
-| 🏠 **Real Estate Price Prediction** | End-to-end ML pipeline with feature engineering, SHAP explainability, and XGBoost. |
-| 🌍 **Indian Tourism Forecasting** | Comparative ARIMA vs XGBoost forecasting with external economic indicators. |
-| 🍽️ **Zomato Data Analysis** | Restaurant analytics using SQL, EDA, visualization, and machine learning. |
+<p align="center">
 
+<a href="https://github.com/kjayant8628/Multi-Agent-RAG">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Multi-Agent-RAG&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/kjayant8628/Enterprise-RAG-Assistant">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Enterprise-RAG-Assistant&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/kjayant8628/Drug-Drug-Interaction-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Drug-Drug-Interaction-Prediction&theme=tokyonight&hide_border=true"/>
+</a>
+
+<a href="https://github.com/kjayant8628/Real-Estate-Price-Prediction">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=kjayant8628&repo=Real-Estate-Price-Prediction&theme=tokyonight&hide_border=true"/>
+</a>
+
+</p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
 
@@ -95,8 +109,7 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=kjayant8628&theme=tokyonight&margin-w=15&margin-h=15&no-frame=true"/>
-
+<img src="https://github-profile-trophy.vercel.app/?username=kjayant8628&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=6"/>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
@@ -131,17 +144,15 @@ Building intelligent AI systems with LLMs, RAG, FastAPI, Graph Neural Networks &
 
 <p align="center">
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="YOUR_LINKEDIN">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://github.com/kjayant8628">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github"/>
 </a>
-
-</p>
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
