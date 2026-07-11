@@ -26,7 +26,8 @@ Building production-ready AI systems with LLMs, RAG, FastAPI, Graph Neural Netwo
 </a>
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
 
 # 🚀 About Me
 
@@ -36,7 +37,8 @@ Building production-ready AI systems with LLMs, RAG, FastAPI, Graph Neural Netwo
 - 🌱 Currently exploring **Agentic AI, LangGraph and scalable AI infrastructure**.
 - 🎯 Open to **AI Engineer**, **Machine Learning Engineer**, and **Data Scientist** opportunities.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
 
 # 💻 Tech Stack
 
@@ -58,7 +60,7 @@ Building production-ready AI systems with LLMs, RAG, FastAPI, Graph Neural Netwo
 
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
 
 # ⭐ Featured Projects
 
@@ -71,7 +73,8 @@ Building production-ready AI systems with LLMs, RAG, FastAPI, Graph Neural Netwo
 
 > 📌 Explore the pinned repositories below for complete project documentation.
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
+
 
 # 📊 GitHub Analytics
 
