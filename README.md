@@ -57,7 +57,7 @@ Building production-ready AI systems with LLMs, RAG, FastAPI, Graph Neural Netwo
 - 🌍 **Indian Tourism Forecasting** → ARIMA vs XGBoost
 - 🍽️ **Zomato Data Analysis** → SQL, EDA & Business Analytics
 
-> 📌 Explore the pinned repositories below for complete project documentation.
+> 📌 Explore the pinned repositories below for complete project documentation
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0ea5e9,100:7c3aed&height=2&section=header"/>
 
